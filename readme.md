@@ -27,7 +27,7 @@
 **scikit-learnの学習は、抽象的なデータセットよりも、現在運用中の管理ソフトのデータ（またはそれと類似したデータ）を使うことで、分析の目的意識が明確になり、学習効率が劇的に向上**
 - MNISTを使用した機械学習を再構築
 
-## 4.Pyton
+## 4.Python
 **【Pythonは楽しむだけ】**
 - Honeycomb System 完成
 - pandas 復習
@@ -41,7 +41,7 @@
 
 # 2025年
 
-## 1.Pthon
+## 1.Python
 - 基礎から応用
 - Sales summary 完成
 - Honeycomb System プロトタイプ配備
